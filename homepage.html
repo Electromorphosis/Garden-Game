@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pl" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Strona Główna</title>
+  </head>
+  <body>
+    <h1>Social Gardens.</h1>
+    <h2>Ogrodowy Czat</h2>
+    <p>Witaj w Social Gardens. Jest to gra, w której stworzyć ogród swoich marzeń i zaprosić do niego swoich znajomych, albo od samego początku zacząć tworzyć wirtualną przestrzeń spotkań ze swoimi przyjaciółmi.</p>
+    <br>
+    <p>Każdy ogród jest generowany proceduralnie. Żeby zacząć grać, wpisz w pole kod swojego ogrodu lub wygeneruj nowy!</p>
+
+<button type="button"
+onclick="document.getElementById('seed').innerHTML = Seed(5)">
+Wygeneruj</button>
+
+<p id="seed"></p>
+
+<form class="text" action="garden.html">
+  <label for="nickname">Nick: </label>
+<input type="text" id="nickname" name="Nick" value="Tu wpisz swój nick"><br><br>
+<label for="seedname">Kod ogrodu: </label>
+<input type="text" name="seedname" value="Tu wpisz kod ogrodu">
+ <input type="Submit" value="Wejdź">
+</form>
+  </body>
+</html>
+
+<script type="text/javascript">
+  function Seed(length) {
+    var result           = '';
+    var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    var charactersLength = characters.length;
+    for ( var i = 0; i < length; i++ ) {
+      result += characters.charAt(Math.floor(Math.random() *
+ charactersLength));
+   }
+   return result;
+}
+</script>

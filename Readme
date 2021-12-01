@@ -1,0 +1,40 @@
+Opis: Social Gardens to aplikacja webowa,
+będąca połączeniem przeglądarkowej gry ogrodniczej
+(inspirowanej chociażby seria Harvest Moon)
+z pokojami czatowymi. Gracz na początek wybiera,
+czy chce stworzyć nowy ogród, czy dołączyć
+do istniejącego za pomocą kodu. W przypadku stworzenia
+nowego ogrodu, tworzony jest także unikalny kod,
+który będzie można wykorzystać do zaproszenia
+do gry swoich znajomych.
+
+(tba profile ogrodników z własnym “sejfem nasion” etc.)
+
+Oródek jest generowany proceduralnie z prostych pól,
+takich jak ziemia, piasek, kamienie, woda, krzewy
+i drzewa nieowocujące.
+
+(Mniej mvp: Może się zdarzyć również, że na działce
+jest już kawałek płotku albo strumyk)
+
+Na początku gry, założyciel ogródka losuje
+jedną z trzech paczek nasion. Może w nim trafić
+nasiona warzyw, owoców albo kwiatów.
+Na działce zawsze jest trochę czystego terenu,
+który może od razu wypielić, a następnie posadzić
+tam rośliny i woda, którą może użyć do podlewania.
+W panelu ma dostęp do wszystkich potrzebnych
+do tego narzędzi: haczki, łopaty, worka z nasionami,
+konewki oraz lupy, za pomocą której może podejrzeć
+aktualny cykl życia rośłin.
+
+Gracz rozwija swój ogród na dwa sposoby: pierwszy wiąże się
+z jego estetyką - im więcej kwiatów i dekoracji,
+tym wyższy poziom ogrodu, dzięki czemu możliwe
+jest odblokowanie dodatkowych opcji (prosta propozycja
+na mvp: więcej slotów w czacie). Drugi sposób rozwijania
+ogrodu wiąże się z produkcją plonów, które można sprzedawać
+na targu, a także przerabiać na produkty, które z kolei
+możliwe są do sprzedaży za więcej złotych monet.
+Za pomocą monet można kupować dekoracje, sprzęty,
+narzędzia, a także dodatkowe opcje do czatu.
