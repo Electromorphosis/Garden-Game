@@ -15,24 +15,24 @@
 
 ## TO DO:
 - Implement web functionalities:
-    > Profiles & saving.
-    > Chat.
-    > Map generator's seeds and settings.
+     Profiles & saving.
+     Chat.
+     Map generator's seeds and settings.
 - Better GUI:
-    > Inventory
-    > Ingame shop(s).
+     Inventory
+     Ingame shop(s).
 - More content:
-    > More terrain objects.
-    > More plants.
-    > More tools.
-    > Modular objects: trees, fences, rivers etc.
-    > Upgrades.
+     More terrain objects.
+     More plants.
+     More tools.
+     Modular objects: trees, fences, rivers etc.
+     Upgrades.
 - Good design patterns:
-    > Modularize js scripts.
-    > Refactorize "tool tables" -> more scalability is needed.
+     Modularize js scripts.
+     Refactorize "tool tables" -> more scalability is needed.
 
 - In the long run:
-    > "Long distance" game economy: plants need time to grow, more expensive content etc.
-    > Game modes (?): tower defense, avatars?
+     "Long distance" game economy: plants need time to grow, more expensive content etc.
+     Game modes (?): tower defense, avatars?
 
   
