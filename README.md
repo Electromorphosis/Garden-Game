@@ -18,15 +18,18 @@ Implement web functionalities:
 - Profiles & saving.
 - Chat.
 - Map generator's seeds and settings.
+
 Better GUI:
 - Inventory
 - Ingame shop(s).
+
 More content:
 - More terrain objects.
 - More plants.
 - More tools.
 - Modular objects: trees, fences, rivers etc.
 - Upgrades.
+
 Good design patterns:
 - Modularize js scripts.
 - Refactorize "tool tables" -> more scalability is needed.
