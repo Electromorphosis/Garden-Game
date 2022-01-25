@@ -11,7 +11,7 @@
 ## Known bugs
 - One type of grass tile has a slightly different tint.
 - Music is played only after the player allows it in a web browser.
-
+- Selector stops working properly if the scale of the browser's window is changed.
 
 ## TO DO:
 Implement web functionalities:
@@ -20,6 +20,7 @@ Implement web functionalities:
 - Map generator's seeds and settings.
 
 Better GUI:
+- Reponsiveness.
 - Inventory
 - Ingame shop(s).
 
