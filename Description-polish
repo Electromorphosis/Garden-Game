@@ -1,6 +1,11 @@
+[Jest to wczesny opis pomysłu, który obejmuje zarówno 
+istniejącą impementacje, jak i funkcjonalność jeszcze 
+niezaimplementowaną, przede wszystkim możliwość gry
+multiplayer i czat]
+
 Opis: Social Gardens to aplikacja webowa,
 będąca połączeniem przeglądarkowej gry ogrodniczej
-(inspirowanej chociażby seria Harvest Moon)
+(inspirowanej chociażby serią Harvest Moon)
 z pokojami czatowymi. Gracz na początek wybiera,
 czy chce stworzyć nowy ogród, czy dołączyć
 do istniejącego za pomocą kodu. W przypadku stworzenia
