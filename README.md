@@ -3,7 +3,7 @@
 
 ## What's new?
 **Alpha is out!**
-- Currently not published anywhere. You can download the .zip package, unpack it and open index.html to play.
+- Currently not published anywhere. You can download the .zip package, unpack it and open docs/index.html to play.
 - Allow music in your browser for fully immersive gaming nostalgia experience.
 - You can plant various kind of flowers and sell them to buy decorations: gnomes, flamingo and statues.
 
